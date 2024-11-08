@@ -1,1 +1,10 @@
 .idea
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
+.obsidian
+.trash
+.smart-env
